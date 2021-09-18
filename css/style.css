@@ -1,10 +1,16 @@
 .logoPart {
+    padding-top: 40px;
+    padding-left: 62px;
     padding-right: 32px;
     display: inline-block;
 }
 
+.logoP {
+    font-size: 22px;
+}
+
 .logo {
-    font-size: 3.1rem;
+    font-size: 50px;
     font-weight: bold;
     color: #1877f2;
 }
