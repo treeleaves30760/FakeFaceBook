@@ -14,7 +14,7 @@ $("#login").click(function(){
         title: '這是假的!!\nThis is fake!!!',
         text: '注意網址以及貓咪，他們可能會是假的',
         icon: 'error',
-        confirmButtonText: '下次會注意'
+        confirmButtonText: '去真的FB'
       }).then(function(data) {
         location.replace("https://www.facebook.com");
       })

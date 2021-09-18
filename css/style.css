@@ -1,0 +1,40 @@
+.logoPart {
+    padding-right: 32px;
+    display: inline-block;
+}
+
+.logo {
+    font-size: 3.1rem;
+    font-weight: bold;
+    color: #1877f2;
+}
+
+body {
+    background: #f0f2f5;
+    min-width: 500px;
+    padding-top: 72px;
+}
+
+.loginPart {
+    border-radius: 8px;
+    margin: 40px 0 0;
+    width: 396px;
+}
+
+.fontLogin {
+    font-size: 18px;
+    padding: 14px 16px;
+}
+
+.fontLoginbtn {
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.newbtn {
+    font-size: 18px;
+    font-weight: bold;
+    background: #42b72a;
+    border-color: #42b72a;
+    color: #FFFFFF;
+}
